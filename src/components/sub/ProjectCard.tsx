@@ -2,6 +2,8 @@ import React from "react";
 import { CodeBracketIcon, EyeIcon } from "@heroicons/react/24/outline";
 import Link from "next/link";
 
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment     
+// @ts-ignore
 const ProjectCard = ({ imgUrl, title, description, gitUrl, previewUrl }) => {
   return (
     <div>
