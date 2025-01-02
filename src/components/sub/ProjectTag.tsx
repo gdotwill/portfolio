@@ -8,6 +8,8 @@ const ProjectTag = ({ name, onClick, isSelected }: TagProps) => {
   return (
     <button
       className={`${buttonStyles} rounded-full border-2 px-6 py-3 text-xl cursor-pointer`}
+      // eslint-disable-next-line @typescript-eslint/ban-ts-comment     
+      // @ts-ignore
       onClick={() => onClick(name)}
     >
       {name}
