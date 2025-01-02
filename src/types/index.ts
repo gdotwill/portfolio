@@ -14,5 +14,5 @@ export interface LinkProps {
 export interface TagProps {
     name: string; 
     onClick: React.MouseEventHandler<HTMLButtonElement>; 
-    isSelected: any ;
+    isSelected: unknown ;
 }
