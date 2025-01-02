@@ -5,8 +5,8 @@ import React, { useState } from "react";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { MdOutlineClose } from "react-icons/md";
 import MenuOverlay from "./MenuOverlay";
-import Link from "next/link";
-import NavLink from "./NavLink";
+// import Link from "next/link";
+// import NavLink from "./NavLink";
 
 const Navbar = () => {
   const [navbarOpen, setNavbarOpen] = useState(false);
@@ -59,13 +59,6 @@ const Navbar = () => {
       </div>
       {navbarOpen ? <MenuOverlay links={navLinks} /> : null}
     </nav>
-
-
-
-
-
-
-
 
 
 

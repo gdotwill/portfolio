@@ -3,11 +3,11 @@ import {
     frontEndSkills,
     fullStack,
     otherSkills,
-    skillData,
+    // skillData,
   } from "@/constants";
   import React from "react";
   import SkillDataProvider from "../sub/SkillDataProvider";
-  import SkillText from "../sub/SkillText";
+  // import SkillText from "../sub/SkillText";
   
   const Skills = () => {
     return (

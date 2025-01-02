@@ -1,19 +1,10 @@
 'use client'
 
 import {
-    backEndSkills,
-    frontEndSkills,
-    fullStack,
-    otherSkills,
-    skillData,
     cloudSkills,
 } from "@/constants";
 import React from "react";
 import SkillDataProvider from "../sub/SkillDataProvider";
-import SkillText from "../sub/SkillText";
-
-import { motion } from "framer-motion";
-import { slideInFromTop } from "@/utils/motion";
   
 const Cloud = () => {
     return (
