@@ -60,7 +60,6 @@ const Projects = () => {
               title={project.title}
               description={project.description}
               imgUrl={project.image}
-              gitUrl={project.gitUrl}
               previewUrl={project.previewUrl}
             />
           </motion.li>
