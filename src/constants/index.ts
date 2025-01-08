@@ -313,12 +313,12 @@ export const projectsData = [
   },
   {
     id: 4,
-    title: "React: Food Ordering Application",
-    description: "Project 4 description",
-    image: "/projects/4.png",
+    title: "React: HR Admin Dashboard",
+    description: "React/Node full stack CRUD application with search and pagination functionality",
+    image: "/projects/7.jpg",
     tag: ["All", "React"],
     gitUrl: "/",
-    previewUrl: "/",
+    previewUrl: "https://hr-khaki.vercel.app/",
   },
   {
     id: 5,
