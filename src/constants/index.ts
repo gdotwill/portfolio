@@ -318,7 +318,7 @@ export const projectsData = [
     image: "/projects/7.jpg",
     tag: ["All", "React"],
     gitUrl: "/",
-    previewUrl: "https://hr-khaki.vercel.app/",
+    previewUrl: "https://hr-frontend-five.vercel.app",
   },
   {
     id: 5,
