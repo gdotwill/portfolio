@@ -314,7 +314,7 @@ export const projectsData = [
   {
     id: 4,
     title: "React: HR Admin Dashboard",
-    description: "React/Node full stack CRUD application with search and pagination functionality",
+    description: "React/Node/Postgres full stack CRUD application with search and pagination functionality. It also has the ability to download a CSV file from the table data. ",
     image: "/projects/7.jpg",
     tag: ["All", "React"],
     gitUrl: "/",
