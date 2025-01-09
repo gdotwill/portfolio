@@ -61,6 +61,7 @@ const Projects = () => {
               description={project.description}
               imgUrl={project.image}
               previewUrl={project.previewUrl}
+              stacks={project.stacks}
             />
           </motion.li>
         ))}

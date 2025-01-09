@@ -292,6 +292,12 @@ export const projectsData = [
     tag: ["All", "Angular"],
     gitUrl: "/",
     previewUrl: "/",
+    stacks: [
+      {
+        id: 1,
+        stackUrl: "/react.png"
+      }
+    ]
   },
   {
     id: 2,
@@ -301,6 +307,12 @@ export const projectsData = [
     tag: ["All", "Angular"],
     gitUrl: "/",
     previewUrl: "/",
+    stacks: [
+      {
+        id: 1,
+        stackUrl: "/react.png"
+      }
+    ]
   },
   {
     id: 3,
@@ -310,24 +322,74 @@ export const projectsData = [
     tag: ["All", "Angular"],
     gitUrl: "/",
     previewUrl: "/",
+    stacks: [
+      {
+        id: 1,
+        stackUrl: "/react.png"
+      }
+    ]
   },
   {
     id: 4,
     title: "React: HR Admin Dashboard",
-    description: "React/Node/Postgres full stack CRUD application with search and pagination functionality. It also has the ability to download a CSV file from the table data. ",
+    description: "Full stack CRUD application with search and pagination functionality. It also has the ability to download a CSV file from the table data. ",
     image: "/projects/7.jpg",
     tag: ["All", "React"],
     gitUrl: "/",
     previewUrl: "https://hr-frontend-five.vercel.app",
+    stacks: [
+      {
+        id: 1,
+        stackUrl: "/react.png"
+      },
+      {
+        id: 2,
+        stackUrl: "/node-js.png"
+      },
+      {
+        id: 3,
+        stackUrl: "/express.png"
+      },
+      {
+        id: 4,
+        stackUrl: "/postger.png"
+      },
+      {
+        id: 5,
+        stackUrl: "/tailwind.png"
+      }
+    ]
   },
   {
     id: 5,
-    title: "React: Firebase Template",
+    title: "React: Blog App",
     description: "Authentication and CRUD operations",
     image: "/projects/5.png",
     tag: ["All", "React"],
     gitUrl: "/",
     previewUrl: "/",
+    stacks: [
+      {
+        id: 1,
+        stackUrl: "/react.png"
+      },
+      {
+        id: 2,
+        stackUrl: "/node-js.png"
+      },
+      {
+        id: 3,
+        stackUrl: "/express.png"
+      },
+      {
+        id: 4,
+        stackUrl: "/postger.png"
+      },
+      {
+        id: 5,
+        stackUrl: "/tailwind.png"
+      }
+    ]
   },
   {
     id: 6,
@@ -337,6 +399,12 @@ export const projectsData = [
     tag: ["All", "React"],
     gitUrl: "/",
     previewUrl: "/",
+    stacks: [
+      {
+        id: 1,
+        stackUrl: "/react.png"
+      }
+    ]
   },
   {
     id: 7,
@@ -346,6 +414,12 @@ export const projectsData = [
     tag: ["All", "NextJS"],
     gitUrl: "/",
     previewUrl: "/",
+    stacks: [
+      {
+        id: 1,
+        stackUrl: "/react.png"
+      }
+    ]
   },
   {
     id: 8,
@@ -355,6 +429,12 @@ export const projectsData = [
     tag: ["All", "NextJS"],
     gitUrl: "/",
     previewUrl: "/",
+    stacks: [
+      {
+        id: 1,
+        stackUrl: "/react.png"
+      }
+    ]
   },
   {
     id: 9,
@@ -364,6 +444,12 @@ export const projectsData = [
     tag: ["All", "NextJS"],
     gitUrl: "/",
     previewUrl: "/",
+    stacks: [
+      {
+        id: 1,
+        stackUrl: "/react.png"
+      }
+    ]
   },
   {
     id: 10,
@@ -373,6 +459,12 @@ export const projectsData = [
     tag: ["All", "NodeJS"],
     gitUrl: "/",
     previewUrl: "/",
+    stacks: [
+      {
+        id: 1,
+        stackUrl: "/react.png"
+      }
+    ]
   },
   {
     id: 11,
@@ -382,6 +474,12 @@ export const projectsData = [
     tag: ["All", "NodeJS"],
     gitUrl: "/",
     previewUrl: "/",
+    stacks: [
+      {
+        id: 1,
+        stackUrl: "/react.png"
+      }
+    ]
   },
   {
     id: 12,
@@ -391,6 +489,12 @@ export const projectsData = [
     tag: ["All", "NodeJS"],
     gitUrl: "/",
     previewUrl: "/",
+    stacks: [
+      {
+        id: 1,
+        stackUrl: "/react.png"
+      }
+    ]
   }
 ];
 
