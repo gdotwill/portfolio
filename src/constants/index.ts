@@ -367,7 +367,7 @@ export const projectsData = [
     image: "/projects/expenses.png",
     tag: ["All", "React"],
     gitUrl: "/",
-    previewUrl: "https://transactions-gamma-six.vercel.app/",
+    previewUrl: "https://expenses-frontend-khaki.vercel.app/",
     stacks: [
       {
         id: 1,
