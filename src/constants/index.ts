@@ -362,12 +362,12 @@ export const projectsData = [
   },
   {
     id: 5,
-    title: "React: Blog App",
-    description: "Authentication and CRUD operations",
-    image: "/projects/5.png",
+    title: "React: Expenses Tracker App",
+    description: "Full stack React Expenses Tracker application. React Content API on the front connected to a Node JS backend with MOngoDB database.",
+    image: "/projects/expenses.png",
     tag: ["All", "React"],
     gitUrl: "/",
-    previewUrl: "/",
+    previewUrl: "https://transactions-gamma-six.vercel.app/",
     stacks: [
       {
         id: 1,
@@ -383,11 +383,7 @@ export const projectsData = [
       },
       {
         id: 4,
-        stackUrl: "/postger.png"
-      },
-      {
-        id: 5,
-        stackUrl: "/tailwind.png"
+        stackUrl: "/mongodb.png"
       }
     ]
   },
