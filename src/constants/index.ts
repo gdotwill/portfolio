@@ -389,16 +389,32 @@ export const projectsData = [
   },
   {
     id: 6,
-    title: "React: Full-stack Roadmap",
-    description: "Project 5 description",
-    image: "/projects/6.png",
+    title: "React: Blog",
+    description: "Full stack React / NodeJS blog app with PostgreSQL database. Features inlcude JWT login authentication, ability to add images with blog posts and search funtionality for posts. Tabs for category filtering.",
+    image: "/projects/7.png",
     tag: ["All", "React"],
     gitUrl: "/",
-    previewUrl: "/",
+    previewUrl: "https://blog-woad-three-52.vercel.app/",
     stacks: [
       {
         id: 1,
         stackUrl: "/react.png"
+      },
+      {
+        id: 2,
+        stackUrl: "/node-js.png"
+      },
+      {
+        id: 3,
+        stackUrl: "/express.png"
+      },
+      {
+        id: 4,
+        stackUrl: "/postger.png"
+      },
+      {
+        id: 5,
+        stackUrl: "/tailwind.png"
       }
     ]
   },
